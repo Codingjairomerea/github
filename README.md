@@ -24,4 +24,4 @@ En este repositorio pongo en práctica todo lo necesario para poder trabajar de 
 ### Ya está en linea
 Si quieres verlo en linea lo puedes ver [aquí][github]
 
-[github]: https://coding.jairomerea.com/github "aquí"
+[github]: https://codingjairomerea.github.io/github/blogpost.html "aquí"
