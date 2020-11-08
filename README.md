@@ -1,6 +1,6 @@
 # Mi primer repositorio 👨‍🎓
 
-En este repositorio pongo en práctica todo lo necesario para poder trabajar de manera profesional con Git / Git Hub.
+En este repositorio pongo en práctica de manera eficiente todo lo necesario para poder trabajar de manera profesional con Git / Git Hub.
 
 ## ¿Qué fue lo que hice?
 
