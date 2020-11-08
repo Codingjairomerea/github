@@ -33,7 +33,7 @@ body
 {
     width: 70%;
     padding: 0;
-    text-align: left;
+    text-align: center;
     border: 1px solid blue;
     margin: 0 auto;
 }
@@ -45,6 +45,7 @@ body
 #post
 {
     background: white;
+    color: black;
     padding: 1em;
 }
 #footer
