@@ -22,6 +22,7 @@ En este repositorio pongo en práctica todo lo necesario para poder trabajar de 
 - Git Crep 
 
 ### Ya está en linea
+Creado por CodingJairoMerea
 Si quieres verlo en linea lo puedes ver [aquí][github]
 
 [github]: https://codingjairomerea.github.io/github/blogpost.html "aquí"
