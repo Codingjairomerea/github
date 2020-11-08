@@ -16,7 +16,8 @@ En este repositorio pongo en práctica de manera eficiente todo lo necesario par
 - Redme.md 😁
 - Githubpages
 - Gitrabase
-- Stash / Clean / Cherry-Pick
+- Stash / Clean
+- Cherry-Pick
 - Amend
 - Reset / Reflog
 - Git Crep 
